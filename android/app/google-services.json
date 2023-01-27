@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1017033945544",
+    "project_id": "myinstar-e29d7",
+    "storage_bucket": "myinstar-e29d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017033945544:android:1ce3dc1455e83aaaced0fd",
+        "android_client_info": {
+          "package_name": "com.coderlee.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017033945544-7vh31om8cc53v72rd61vbbl4homf2nu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5hrpxT-24P3OF8z8VI1agwuJw4uITAks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017033945544-7vh31om8cc53v72rd61vbbl4homf2nu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017033945544-gmbdio70i01761bau13a2jm6s6h5mi89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.coderlee.instagram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
