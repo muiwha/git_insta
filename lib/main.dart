@@ -20,7 +20,7 @@ void main()  async{
         backgroundColor: Colors.amber
       ),
       textTheme: TextTheme(
-        bodyText1: TextStyle(color: Colors.blue),
+        bodyText1: TextStyle(color: Colors.red),
         bodyText2: TextStyle(color: Colors.red),
       )
     ),
